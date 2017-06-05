@@ -1,0 +1,12 @@
+.jumbotron {
+	background-color:#483D8B;
+	color: white;
+	text-align: center; 
+}
+
+.panel {
+	padding: 30px;
+}
+.input-group{
+	padding: 20px;
+}
